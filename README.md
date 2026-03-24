@@ -1,2 +1,2 @@
 # IB-Path
-Spatial-Contextual Enhancement and Information Bottleneck for Pathological Image Segmentation.
+IB-Path: Information Bottleneck Driven Spatial-Contextual Enhancement for Weakly Supervised Pathological Image Segmentation
